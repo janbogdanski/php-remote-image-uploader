@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.0",
-        "ptcong/php-http-class": "dev-master",
+        "ptcong/php-http-client": "dev-master",
         "ptcong/php-cache-manager": "dev-master"
     },
     "autoload": {
